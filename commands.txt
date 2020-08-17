@@ -8,5 +8,7 @@ git commit -m "Some message"
 git add -A
 git commit -a -m "Some messages"
 git log
+git remote set-url origin git@github.com:santhosh1979/chipcooling.git
+ssh -T git@github.com
 
 
