@@ -1,0 +1,8 @@
+Go to the folder where u want to create local repository
+git init
+git remote add origin "https://github.com/santhosh1979/chipcooling.git"
+git pull origin master
+git status
+git add
+git commit
+
